@@ -29,17 +29,6 @@ This is a simple and interactive desktop voice assistant developed using Python.
 3. **Set up web browsers:**
     - Register the paths to your browsers (Chrome and Edge) in the script if not already done.
 
-## Usage
-
-1. **Run the script:**
-    ```sh
-    python assistant.py
-    ```
-
-2. **Interacting with the Assistant:**
-    - Use voice commands by clicking the "Voice Command" button.
-    - Use text input for commands by entering them in the provided field and clicking "Submit".
-
 ## Command Examples
 
 - **Wikipedia Search**: "Wikipedia [search term]"
@@ -57,9 +46,5 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-Feel free to use and customize the assistant as per your needs. Enjoy coding!
 
 
