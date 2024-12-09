@@ -18,9 +18,8 @@ This is a simple and interactive desktop voice assistant developed using Python.
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/your-repository-name.git
-    cd your-repository-name
-    ```
+    git clone https://github.com/simplyswara/Voice-Assistant.git
+    cd Voice-Assistant    ```
 
 2. **Install dependencies:**
     ```sh
@@ -63,7 +62,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 Feel free to use and customize the assistant as per your needs. Enjoy coding!
 
-## Contact
-
-For any questions or inquiries, you can reach me at [your-email@example.com].
 
